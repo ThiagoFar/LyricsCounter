@@ -27,7 +27,7 @@ public class WordsMain extends JPanel
         //log.setEditable(false);
         
       //  JScrollPane logScrollPane = new JScrollPane(log);
-
+//baconteste
         
         fc = new JFileChooser();
         fc.setMultiSelectionEnabled(true);
